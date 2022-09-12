@@ -1,0 +1,76 @@
+<<<<<<< HEAD
+body{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.nav{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+a{
+    color: antiquewhite;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.img1{
+    width: 40%;
+    height: 40%;
+}
+
+table, th, tr, td, caption{
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.table{
+    margin-bottom: 10px;
+}
+
+#firstName{
+    margin: 10px;
+=======
+body{
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.nav{
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
+a{
+    color: antiquewhite;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.img1{
+    width: 40%;
+    height: 40%;
+}
+
+table, th, tr, td, caption{
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.table{
+    margin-bottom: 10px;
+}
+
+#firstName{
+    margin: 10px;
+>>>>>>> 4c32dba8e109a46169b0c9fad64709e7d75a7677
+}
